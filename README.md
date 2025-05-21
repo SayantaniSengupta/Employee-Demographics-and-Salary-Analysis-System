@@ -1,7 +1,8 @@
 # Employee-Demographics-and-Salary-Analysis-System
 
 This project explores employee trends and compensation insights using SQL for data analysis and Tableau for interactive visualizations. The dashboard answers key questions about workforce distribution, gender parity, salary trends, and managerial dynamics within an organization over time.
-
+[![Dashboard Thumbnail](https://github.com/SayantaniSengupta/Employee-Demographics-and-Salary-Analysis-System/blob/169b59bdd22cda1ed28cef28ebb63b74b5382fb5/screenshot.png)]
+##  Sample SQL Queries
 ---
 
 ##  Project Overview
@@ -45,8 +46,7 @@ The dataset is inspired by a simplified HR system and contains the following tab
 | Average Salary by Department & Gender  | Bar chart comparing pay equity across departments |
 
 ---
-[![Dashboard Thumbnail](https://github.com/SayantaniSengupta/Employee-Demographics-and-Salary-Analysis-System/blob/169b59bdd22cda1ed28cef28ebb63b74b5382fb5/screenshot.png)]
-##  Sample SQL Queries
+
 
 ```sql
 -- Average salary by gender per year
