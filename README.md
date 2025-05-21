@@ -45,7 +45,7 @@ The dataset is inspired by a simplified HR system and contains the following tab
 | Average Salary by Department & Gender  | Bar chart comparing pay equity across departments |
 
 ---
-👉 [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/phonethiriyadana/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
+[![Dashboard Thumbnail](./Tableau/dashboard_preview.png)](https://public.tableau.com/app/profile/phonethiriyadana/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
 
 ##  Sample SQL Queries
 
