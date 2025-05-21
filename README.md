@@ -54,3 +54,7 @@ SELECT YEAR(from_date) AS year, gender, AVG(salary) AS avg_salary
 FROM employees e
 JOIN salaries s ON e.employee_id = s.employee_id
 GROUP BY year, gender;
+## 🌐 Interactive Dashboard
+
+👉 [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/phonethiriyadana/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
+
